@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @EsraaElawadly
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning master degree
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @EsraaElawadly 
+- 👀 I’m interested in programming and research field 
+- 🌱 I’m currently doing my master degree in computer science 
+- 💞️ I’m looking to collaborate on deep learning for radiology reports ...
 - 📫 How to reach me esraa.m.elawadly@gmail.com
 
 <!---
